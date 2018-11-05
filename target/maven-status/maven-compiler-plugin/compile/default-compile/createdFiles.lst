@@ -1,2 +1,5 @@
+com\springBoot\entity\Book.class
 com\springBoot\controller\SimpleController.class
 com\springBoot\Application2.class
+com\springBoot\controller\BookController.class
+com\springBoot\repository\BookRepository.class
