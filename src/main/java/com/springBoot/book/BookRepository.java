@@ -1,6 +1,5 @@
-package com.springBoot.repository;
+package com.springBoot.book;
 
-import com.springBoot.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

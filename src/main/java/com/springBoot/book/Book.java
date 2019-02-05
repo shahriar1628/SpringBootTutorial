@@ -1,6 +1,5 @@
-package com.springBoot.entity;
+package com.springBoot.book;
 
-import com.sun.javafx.beans.IDProperty;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
